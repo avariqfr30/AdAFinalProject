@@ -2,14 +2,12 @@
 
 ALGORITHM DESIGN AND ANALYSIS
 
-FINAL PROJECT REPORT
+                Avariq Fazlur Rahman - 2502043002
 
-Avariq Fazlur Rahman - 2502043002
+                Bayu Hartho - 2502013731
 
-Bayu Hartho - 2502013731
+                Bernard Choa - 2502022414
 
-Bernard Choa - 2502022414
+                Darryl Hilmy - 2502009652
 
-Darryl Hilmy - 2502009652
-
-L3BC
+                                                      L3BC
